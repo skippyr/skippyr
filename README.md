@@ -18,7 +18,7 @@ while adding some touch of culture, nostalgia and love to spice it up.
 
 Right now, I am striving:
 
-- To create a familiar coding style to the C language.
+- To create a balanced coding style to use in my projects.
 - To develop some system utilities and libraries for my system package
   “Mistureba”.
 - To prepare an environment for some crazy projects I want to develop in the
