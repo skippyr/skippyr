@@ -2,11 +2,11 @@
 
 Hello, fellow dragons!
 
-I'm an undergraduate software engineer interested in dragons, system design and
+I am an undergraduate software engineer interested in dragons, system design and
 the development of operating systems.
 
 I contribute to open-source as an active maintainer of some personal projects
-since 2023.
+since 2023, mostly related to the terminal.
 
 ## Philosophy
 
