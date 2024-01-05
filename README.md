@@ -1,25 +1,22 @@
-## About Me
+## About
 
-Hello, fellow dragon!
+Hello, fellow dragons!
 
-I am an undergraduate software engineer interested in dragons, design and the
-development of operating systems, utilities and libraries, especially using the
-C language.
+I'm an undergraduate software engineer interested in dragons, system design and
+the development of operating systems.
 
 I contribute to open-source as an active maintainer of some personal projects
-since 2023, mostly related to the terminal.
+since 2023.
 
 ## Philosophy
 
-I really want to become a master in creating simple and immutable software,
-while adding some touch of culture, nostalgia and love to spice it up.
+I really want to become a master in creating simple software, while adding some
+touch of culture and love to spice it up.
 
-## Current Goals
+## Objectives
 
 Right now, I am striving:
 
-- To create a balanced coding style to use in my projects.
-- To develop some system utilities and libraries for my system package
-  “Mistureba”.
+- To develop some utilities and libraries for my package “mistureba”.
 - To prepare an environment for some crazy projects I want to develop in the
   future.
