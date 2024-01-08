@@ -8,7 +8,7 @@ since 2023, mostly related to the terminal.
 
 ## Philosophy
 
-I would like to create simple and ingenious software for advanced users.
+I love to design simple software for experienced users.
 
 ## Objectives
 
