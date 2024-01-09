@@ -1,17 +1,7 @@
 ## About
 
-I am an undergraduate software engineer interested in dragons, system design and
-operating systems.
+I'm an undegratuate software engineer interested in system design and operating
+systems.
 
-I contribute to open-source as an active maintainer of some personal projects
-since 2023, mostly related to the terminal.
-
-## Philosophy
-
-I love to design simple software for experienced users.
-
-## Objectives
-
-- To design a software development method for myself.
-- To develop utilities and libraries for my package “mistureba”.
-- To prepare an environment for future projects.
+I've been developing open-source projects since 2023, mostly related to the
+terminal.
