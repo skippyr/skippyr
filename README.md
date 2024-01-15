@@ -1,11 +1,5 @@
-<h1 align="center">skippyr</h1>
-<p align="center">⊼⊵⊼⊵&ensp;GitHub Profile&ensp;⊼⊵⊼⊵</p>
-
-## Introduction
-
-Hello, fellow dragons!
-
-Welcome to the home of my projects on GitHub.
+<h1 align="center">⊼⊵⊼⊵&ensp;skippyr&ensp;⊼⊵⊼⊵</h1>
+<p align="center">GitHub Profile</p>
 
 ## About
 
