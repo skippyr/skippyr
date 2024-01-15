@@ -1,3 +1,12 @@
+<h1 align="center">skippyr</h1>
+<p align="center">⊼⊵⊼⊵&ensp;GitHub Profile&ensp;⊼⊵⊼⊵</p>
+
+## Introduction
+
+Hello, fellow dragons!
+
+Welcome to the home of my projects on GitHub.
+
 ## About
 
 I am an undergraduate software engineer from Brazil interested in dragons,
@@ -18,4 +27,3 @@ You will see that I usually design simple and decent software.
 
 You can contact me, by contributing to my projects or by sending me an
 [e-mail](mailto:skippyr.developer@gmail.com).
-
