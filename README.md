@@ -9,7 +9,7 @@
 
 Hello, fellow dragons!
 
-I am an undergraduate software engineer from Brazil interested in dragons, culture, system design, project management and software development.
+I am an undergraduate software engineer from Brazil interested in dragons, culture, design and software development.
 
 I have been developing and maintaining some open-source projects since 2023, most of which are themes, terminal applications or libraries.
 
