@@ -28,4 +28,4 @@ You can contact me by contributing to my projects or by sending me an [e-mail](m
 
 &nbsp;
 
-<p align="center"><sup>⊼⊵⊼⊵&ensp;Here Are Dragons!&ensp;⊼⊵⊼⊵<br />Made with love by skippyr <3</sup></p>
+<p align="center"><sup><strong>⊼⊵⊼⊵&ensp;Here Are Dragons!&ensp;⊼⊵⊼⊵</strong><br />Made with love by skippyr <3</sup></p>
