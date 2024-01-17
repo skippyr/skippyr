@@ -25,5 +25,3 @@ You will see that I usually design simple and decent software, specially for Lin
 ## Contact
 
 You can contact me by contributing to my projects or by sending me an [e-mail](mailto:skippyr.developer@gmail.com).
-
-<p align="center"><sup><br />⊼⊵⊼⊵&ensp;Here Are Dragons!&ensp;⊼⊵⊼⊵<br />Made with love by skippyr <3</sup></p>
