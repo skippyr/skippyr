@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="banner.png" alt="" />
+	<img src="banner.webp" alt="" />
 </p>
 <h1 align="center">⊼⊵⊼⊵&ensp;skippyr&ensp;⊼⊵⊼⊵</h1>
 <p align="center">GitHub Profile</p>
