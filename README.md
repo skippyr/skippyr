@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="" />
+</p>
 <h1 align="center">⊼⊵⊼⊵&ensp;skippyr&ensp;⊼⊵⊼⊵</h1>
 <p align="center">GitHub Profile</p>
 <p align="center">
@@ -17,7 +20,7 @@ I have been developing and maintaining some open-source projects since 2023, mos
 
 I believe that software development is a constant search for the balance between needs and dreams: something to learn from previous mistakes and be done better in every opportunity.
 
-You will see that I usually design simple and decent software.
+You will see that I usually design simple and decent software, specially for Linux.
 
 ## Contact
 
