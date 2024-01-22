@@ -12,15 +12,13 @@
 
 Hello, fellow dragons!
 
-I am an undergraduate software engineer from Brazil interested in dragons, culture, design and software development.
+I am an undergraduate software engineer from Brazil interested in dragons and software development.
 
-I have been developing and maintaining some open-source projects since 2023, most of which are themes, terminal applications and libraries.
+I have been developing open-source projects since 2023, most of which are themes, terminal applications and libraries.
 
 ## ❡ Philosophy
 
-I believe that software development is a constant search for the right balance between needs and dreams: something to learn from previous mistakes and be done better in every opportunity.
-
-You will see that I usually design simple and decent software, specially for Linux.
+I make simple and decent software for Linux, specially using C and Shell scripting.
 
 ## ❡ Contact
 
