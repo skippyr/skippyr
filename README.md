@@ -10,7 +10,15 @@
 
 ## ❡ About
 
-I am an undergraduate software engineer from Brazil that makes simple open-source software for Linux, mainly using C and Shell scripting.
+I am an undergraduate software engineer from Brazil that makes simple open-source software for Linux since 2023, mainly using C and Shell scripting.
+
+Most of my projects are themes, libraries and terminal apps.
+
+## ❡ Philosophy
+
+I believe that software development is the constant search for the right balance between needs and dreams: something to be learned from previous mistakes and to be done better with every new opportunity.
+
+The greatest sign of love in a software is seen when its developer accepts its own imperfections and uses them to make it unique.
 
 ## ❡ Contact
 
