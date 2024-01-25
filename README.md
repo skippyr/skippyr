@@ -16,9 +16,7 @@ Most of my projects are themes, libraries and terminal apps.
 
 ## ❡ Philosophy
 
-I believe that software development is the constant search for the right balance between needs and dreams: something to be learned from previous mistakes and to be done better with every new opportunity.
-
-The greatest sign of love in a software is seen when its developer accepts its own imperfections and uses them to make it unique.
+I like to create software that offers a simple and pleasant user experience.
 
 ## ❡ Contact
 
