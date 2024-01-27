@@ -11,9 +11,9 @@
 
 ## ❡ About
 
-I am an undergraduate software engineer from Brazil that loves to make simple and stunning open-source software for Linux, mainly using C and Shell script.
+I am an undergraduate software engineer from Brazil that loves to make simple open-source software for Linux, mainly using C and Shell script.
 
-My projects consist of themes, libraries and apps, usually related to the terminal or web.
+My projects consist of themes, libraries and apps, usually related to the terminal or the web.
 
 ## ❡ Contact
 
