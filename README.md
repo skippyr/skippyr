@@ -11,14 +11,10 @@
 
 ## ❡ About
 
-I am an undergraduate software engineer from Brazil that loves to make simple open-source software for Linux, mainly using C and Shell script.
+I am an undergraduate software engineer from Brazil that makes open-source software for Linux, mainly using C and Javascript.
 
 My projects consist of themes, libraries and apps, usually related to the terminal or the web.
 
 ## ❡ Contact
 
 Get in touch with me by contributing to one my active projects or by sending me an [e-mail](mailto:skippyr.developer@gmail.com).
-
-&nbsp;
-
-<p align="center"><sup><strong>≥v≥v&ensp;Here Are Dragons!&ensp;≥v≥v</strong><br />Made with love by skippyr <3</sup></p>
