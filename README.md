@@ -21,4 +21,4 @@ Get in touch with me by contributing to one my active projects or by sending me 
 
 &nbsp;
 
-<p align="center"><sup><strong>⊼⊵⊼⊵&ensp;Here Are Dragons!&ensp;⊼⊵⊼⊵</strong><br />Made with love by skippyr <3</sup></p>
+<p align="center"><sup><strong>≥v≥v&ensp;Here Are Dragons!&ensp;≥v≥v</strong><br />Made with love by skippyr <3</sup></p>
