@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="ornament.webp" alt="" />
 </p>
-<h1 align="center">⊼⊵⊼⊵&ensp;skippyr&ensp;⊼⊵⊼⊵</h1>
+<h1 align="center">≥v≥v&ensp;skippyr&ensp;≥v≥v</h1>
 <p align="center">GitHub Profile</p>
 <p align="center">
 	<img src="https://img.shields.io/github/followers/skippyr?style=plastic&label=%E2%89%A5%20followers&labelColor=%2324130e&color=%23b8150d" alt="" />
