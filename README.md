@@ -1,12 +1,12 @@
 <p align="center">
-    <img alt="" src="ornament.webp" />
+  <img alt="" src="assets/ornament.webp" />
 </p>
 <h1 align="center">≥v≥v&ensp;skippyr&ensp;≥v≥v</h1>
 <p align="center">GitHub Profile</p>
 <p align="center">
-    <img alt="" src="https://img.shields.io/github/followers/skippyr?style=plastic&label=%E2%89%A5%20followers&labelColor=%2324130e&color=%23b8150d" />
+  <img alt="" src="https://img.shields.io/github/followers/skippyr?style=plastic&label=%E2%89%A5%20followers&labelColor=%2324130e&color=%23b8150d" />
   &nbsp;
-    <img alt="" src="https://img.shields.io/github/stars/skippyr?style=plastic&label=%E2%89%A5%20stars&labelColor=%2324130e&color=%23b8150d" />
+  <img alt="" src="https://img.shields.io/github/stars/skippyr?style=plastic&label=%E2%89%A5%20stars&labelColor=%2324130e&color=%23b8150d" />
 </p>
 
 ## ❡ About
