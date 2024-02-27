@@ -11,13 +11,9 @@
 
 ## ❡ About
 
-Hello, fellow dragon!
-
 I am undergraduate software engineer from Brazil who is interested in dragons and software development.
 
-I have been developing some open-source projects since 2023. Most of them are themes, libraries and applications, usually related to the terminal.
-
-If you consider to take a look at them, you might end up finding something you like.
+I have been developing some themes, libraries and applications, usually related to the terminal.
 
 ## ❡ Contact
 
