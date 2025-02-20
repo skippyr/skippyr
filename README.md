@@ -14,7 +14,7 @@
       </td>
       <td>
         <p align="center">
-          <img alt="" src="assets/skippyr.gif" width="500"/><br/>
+          <img alt="" src="assets/skippyr.gif" width="200"/><br/>
         </p>
       </td>
     </tr>
