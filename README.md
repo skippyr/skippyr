@@ -10,7 +10,7 @@
     <tr>
       <td>
         <p>I am Sherman Rofeman, also known as "Skippyr Cherrytree". I am an undergraduate software engineer from Brazil that likes My Little Pony and is currently learning Rust & Ruby for the purpose of creating a variety of cross-platform software and systems.</p>
-        <p>Throughout the course of time, I have been developing some projects (which I call "cherries"). Take a look at them by seeing my GitHub pinned projects and don't forget to leave a star if you like one.</p>
+        <p>Since 2023, I have been developing some projects (which I call "cherries"). Take a look at them by seeing my GitHub pinned projects and don't forget to leave a star if you like one.</p>
       </td>
       <td>
         <p align="center">
