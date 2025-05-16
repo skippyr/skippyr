@@ -7,9 +7,9 @@
 ## ❡ About
 Hello, I am [skippyr](https://github.com/skippyr)!
 
-I am an undergraduate software engineer from Brazil that loves terminals, graphical user interfaces, computer games, dragons and My Little Pony. Currently, I want to become an experienced macOS developer skilled in Swift 🦅🧡🔥.
+I am an undergraduate software engineer from Brazil that likes terminals, graphical user interfaces, dragons and My Little Pony, and I am currently learning Swift for macOS development 🦅🧡🔥.
 
-Since 2023, I have been developing themes and cross-platform applications for macOS, Linux and Windows, always striving to create the best solutions possible with my uniqueness and creativity 🦄🌈♥️💻.
+Since 2023, I have been brewing some neat software, always striving to create the best solutions possible with my uniqueness and creativity 🦄🌈♥️💻.
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=shadow_red&username=skippyr" />
@@ -17,10 +17,7 @@ Since 2023, I have been developing themes and cross-platform applications for ma
   <img alt="skippyr's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?show_icons=true&theme=shadow_red&username=skippyr" />
 </p>
 
-Find me daily creating new projects or improving existing codebases by solving issues and sending pull requests. If you need to talk, contribute to one of my projects, send me an [e-mail](mailto:skippyr.developer@icloud.com) or just meet me hanging around [Pony Town](https://pony.town) from time to time.
+Find me daily creating new projects or improving existing codebases. If you need to talk, open an issue in one of my projects or send me an [e-mail](mailto:skippyr.developer@icloud.com).
 
 &ensp;
-<p align="center">
-  <img alt="" src="assets/sneeze.gif" width="95" />
-</p>
 <p align="center"><sup>– 🐉❤️‍🔥 –</br><strong>≥v≥v&ensp;Here Be Dragons!&ensp;≥v≥</strong><br/>Made with love by 🍒 <a href="https://github.com/skippyr">skippyr</a></sup></p>
