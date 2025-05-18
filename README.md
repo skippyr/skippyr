@@ -7,7 +7,7 @@
 ## ❡ About
 Hello, I am [skippyr](https://github.com/skippyr)!
 
-I am an undergraduate software engineer from Brazil that likes terminals, graphical user interfaces, dragons and My Little Pony, and I am currently learning Swift for macOS development 🦅🧡🔥.
+I am an undergraduate software engineer that likes terminals, dragons and My Little Pony. Currently, I am learning Swift for native macOS development 🦅🧡🔥.
 
 Since 2023, I have been brewing some neat software, always striving to create the best solutions possible with my uniqueness and creativity 🦄🌈♥️💻.
 
