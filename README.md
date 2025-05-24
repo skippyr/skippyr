@@ -9,7 +9,7 @@ Hello, I am [skippyr](https://github.com/skippyr)!
 
 A software engineer that likes low-level development, dragons and My Little Pony.
 
-Since 2023, I have been making software, always striving to create the best solutions possible with my uniqueness and creativity.
+Since 2023, I have been developing software, always striving to create the best solutions by bringing my unique perspective and creativity. My focus is on making user experiences simpler, memorable and more intuitive.
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=shadow_red&username=skippyr" />
