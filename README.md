@@ -7,9 +7,9 @@
 ## ❡ About
 Hello, I am [skippyr](https://github.com/skippyr)!
 
-A software engineer that likes low-level development, dragons and My Little Pony.
+A low-level software engineer specializing in operating systems and terminals, with an unexpected fondness for dragons and My Little Pony, and now learning the Zig programming language.
 
-Since 2023, I have been developing software, always striving to create the best solutions by bringing my unique perspective and creativity. My focus is on making user experiences simpler, memorable and more intuitive.
+Since 2022, I have been developing software, always striving to create the best solutions by bringing my unique perspective and creativity. My focus is on designing user experiences that are seamless, engaging, and intuitive, while continuously refining my approach.
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=shadow_red&username=skippyr" />
