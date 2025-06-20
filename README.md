@@ -5,9 +5,12 @@
 <p align="center">— skippyr —</p>
 
 ## ❡ About
-Hello, I am [skippyr](https://github.com/skippyr)!
+Hello, I'm [skippyr](https://github.com/skippyr)!
 
-A low-level software engineer who builds bare-metal systems, cross-platform libraries, and handcrafted UI frameworks — all in Zig, my language of choice. I thrive on designing things from scratch, obsessing over creative problem-solving and elegant solutions. Outside the code, I have an unapologetic love for dragons, tribal aesthetics, and My Little Pony — because great engineering should come with a touch of magic.
+A low-level software engineer who enjoys building things from scratch — especially in Zig, the language I love most. I code cross-platform software with unique designs and memorable user experiences. My libraries are crafted to be lightweight, efficient, and above all, to make programming enjoyable for other developers — that's why I put care into every API, naming convention, and interaction.
+
+Outside of coding, I have an odd fondness for My Little Pony and Dragons — interests that add a bit of fun, cuteness and magic to everyday.
+
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=shadow_red&username=skippyr" />
@@ -15,7 +18,7 @@ A low-level software engineer who builds bare-metal systems, cross-platform libr
   <img alt="skippyr's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?show_icons=true&theme=shadow_red&username=skippyr" />
 </p>
 
-You’ll often find me deep in code — either starting new projects from scratch or refining and optimizing existing ones. I’m constantly exploring ways to push boundaries, learn something new, and make each line of code better than the last. Whether it’s a new idea or a bug fix, I treat every improvement as a chance to grow.
+You'll often find me deep in code — either starting new projects from scratch or refining and optimizing existing ones. I'm constantly exploring ways to push boundaries, learn something new, and make each line of code better than the last. Whether it’s a new idea or a bug fix, I treat every improvement as a chance to grow: always hacking, always learning — one instruction at a time.
 
 If you’d like to reach out, feel free to open an issue on one of my repositories or send me an [email](mailto:skippyr.developer@icloud.com) — I’m always open to thoughtful discussions, collaboration, or even just geeking out over cool ideas.
 
