@@ -7,9 +7,9 @@
 ## ❡ About
 Hello, I'm [skippyr](https://github.com/skippyr)!
 
-A low-level software engineer who enjoys building things from scratch — especially in Zig, the language I love most. I code cross-platform software with unique designs and memorable user experiences. My libraries are crafted to be lightweight, efficient, and above all, to make programming enjoyable for other developers — that's why I put care into every API, naming convention, and interaction.
+A low-level software engineer who enjoys building purposeful things from scratch — especially in Zig, my primary development language. I code cross-platform software with unique designs and unforgetable experiences at their hearts. My libraries are crafted to be lightweight, efficient, and above all, to make programming enjoyable for other developers — that's why I put care into every single API, naming convention, and interaction.
 
-Outside of coding, I have an odd fondness for My Little Pony and Dragons — interests that add a bit of fun, cuteness and magic to everyday.
+Outside of coding, I have an odd and unexplained fondness for My Little Pony and Dragons — interests that add a bit of fun, cuteness and magic to every of my life.
 
 
 <p align="center">
