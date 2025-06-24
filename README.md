@@ -23,4 +23,6 @@ You'll often find me deep in code 🤓 — either starting new projects from scr
 If you’d like to reach out 💬, feel free to open an issue ✅ on one of my repositories or send me an [email](mailto:skippyr.developer@icloud.com) 📪 — I’m always open to thoughtful discussions, collaboration, or even just geeking out over cool ideas 🤣🧠.
 
 &ensp;
+<p align="center"><i>In the memory of all fellow dragons,<br />as the dreams that keeps our flames alive.</i></p>
+&ensp;
 <p align="center"><sup>– 🐉❤️‍🔥 –</br><strong>≥v≥v&ensp;Here Be Dragons!&ensp;≥v≥</strong><br/>Made with love by 🍒 <a href="https://github.com/skippyr">skippyr</a></sup></p>
