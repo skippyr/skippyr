@@ -7,9 +7,9 @@
 ## ❡ About
 Hello, I am [skippyr](https://github.com/skippyr)!
 
-A low-level software engineer that loves to build stuff from the ground up, specially in Zig — my primary programming language. My focus is on desktop, backend and games development, crafting OSes, kernels, drivers, terminal tools, and GUI apps, where I work close to the metal and understand how everything fits together. I am always learning and constantly improving.
+A low-level software engineer that loves to build stuff from the ground up, specially in C—my primary programming language. My focus is on desktop, backend and games development, crafting OSes, kernels, drivers, terminal tools, and GUI apps, where I work close to the metal and understand how everything fits together. I am always learning and constantly improving.
 
-Outside of coding, I have a bit of an unusual but genuine love for dragons, 3D animation, My Little Pony, and all things retro—think pixel art, old-school video games, and the charm of vintage tech. These interests bring a playful kind of inspiration to my life, adding color, nostalgia, and creativity that balance out the structured world of programming. They remind me that imagination, joy, and curiosity are just as important as logic and code.
+Outside of coding, I have a bit of an unusual but genuine love for dragons, 2D/3D animation, My Little Pony, and all things retro—think pixel art, old-school video games, and the charm of vintage tech. These interests bring a playful kind of inspiration to my life, adding color, nostalgia, and creativity that balance out the structured world of programming. They remind me that imagination, joy, and curiosity are just as important as logic and code.
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=shadow_red&username=skippyr" />
