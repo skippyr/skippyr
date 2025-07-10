@@ -5,7 +5,7 @@
 <p align="center">— GitHub Profile —</p>
 
 ## ❡ About
-A software engineer specializing in building general-purpose applications and systems, primarily using C#. My goal is to lead projects toward the most effective and elegant solutions—making the experience intuitive for both users and developers. I focus on simplifying complexity so you can skip unnecessary steps—and that is why I am called "skippyr" (conjunction of "skipper" and "skip").
+A software engineer specializing in building general-purpose applications and systems, primarily using Java, C and Python. My goal is to lead projects toward the most effective and elegant solutions—making the experience intuitive for both users and developers. I focus on simplifying complexity so you can skip unnecessary steps—and that is why I am called "skippyr" (conjunction of "skipper" and "skip").
 
 Outside of coding, I have an unexpected fondness for My Little Pony and Dragons, elements that add a little bit of magic to every day of my life, helping me have fun and get creative ideas for my projects.
 
