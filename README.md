@@ -3,6 +3,13 @@
 </p>
 <h1 align="center">≥v≥v&ensp;skippyr&ensp;≥v≥v</h1>
 <p align="center">— GitHub Profile —</p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="" />
+</p>
 
 ## ❡ About
 A software engineer that likes to build everything: from enterprise systems and desktop apps to embedded pieces and operating systems. My goal is to lead projects towards the best solutions possible, simplifying complexity so you can skip unnecessary steps—that is why I am called "skippyr" (a portmanteau of "skipper" and "skip").
