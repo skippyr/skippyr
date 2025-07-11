@@ -5,9 +5,9 @@
 <p align="center">— GitHub Profile —</p>
 
 ## ❡ About
-A software engineer that likes to build a bit of everything—from enterprise systems, desktop apps, embedded software to operating systems, I am always in for the challenge. My goal is to lead projects toward the most effective and elegant solutions—making the experience intuitive for both users and developers. I focus on simplifying complexity so you can skip unnecessary steps—and that is why I am called "skippyr" (conjunction of "skipper" and "skip").
+A software engineer that likes to build everything: from enterprise systems and desktop apps to embedded pieces and operating systems. My goal is to lead projects towards the best solutions possible, simplifying complexity so you can skip unnecessary steps—that is why I am called "skippyr" (a portmanteau of "skipper" and "skip").
 
-Outside of coding, I have an unexpected fondness for My Little Pony and Dragons, elements that add a little bit of magic to every day of my life, helping me have fun and get creative ideas for my projects.
+Outside of coding, I have an unexpected fondness for My Little Pony and Dragons, elements that add a little bit of magic to every day of my life, helping me to have fun and get creative ideas for my projects.
 
 <p align="center">
   <img alt="skippyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=skippyr&theme=shadow_red" width="450"/>
