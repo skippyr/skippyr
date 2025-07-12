@@ -4,11 +4,13 @@
 <h1 align="center">≥v≥v&ensp;skippyr&ensp;≥v≥v</h1>
 <p align="center">— GitHub Profile —</p>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C# Language Logo" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust Language Logo" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C Language Logo">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python Language Logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript Language Logo" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP Logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL Language Logo" />
 </p>
 
 ## ❡ About
