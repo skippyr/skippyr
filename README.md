@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP Logo" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL Language Logo" />
 </p>
+<p align="center">
+  <span>🇺🇸 English-US</span>
+  &ensp;
+  <span>🇧🇷 Portuguese-BR</span>
+</p>
 
 ## ❡ About
 A software engineer that likes to build everything: from enterprise systems and desktop apps to embedded pieces and operating systems. My goal is to lead projects towards the best solutions possible, simplifying complexity so you can skip unnecessary steps—that is why I am called "skippyr" (a portmanteau of "skipper" and "skip").
