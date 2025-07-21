@@ -4,6 +4,11 @@
 <h1 align="center">≥v≥v&ensp;skippyr&ensp;≥v≥v</h1>
 <p align="center">— GitHub Profile —</p>
 <p align="center">
+  <img alt="" src="https://img.shields.io/badge/ASM-030101?logo=assemblyscript&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/C++-%23991f06.svg?logo=c%2B%2B&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/SH-7d0800?logo=gnubash&logoColor=white" />
+</p>
+<p align="center">
   <span><a href="https://github.com/skippyr/skippyr/blob/master/README.md">🇺🇸 English-US</a></span>
   &ensp;
   <span><a href="https://github.com/skippyr/skippyr/blob/master/README_pt-BR.md">🇧🇷 Portuguese-BR</a></span>
